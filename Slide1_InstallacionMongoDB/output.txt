@@ -1,0 +1,2 @@
+Servidor: {'ok': 1.0}
+Bases: ['admin', 'config', 'local']
